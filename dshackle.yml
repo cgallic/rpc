@@ -1,0 +1,35 @@
+version: v1
+port: 2449
+tls:
+  enabled: true
+
+proxy:
+  host: 0.0.0.0
+  port: 8545
+  routes:
+    - id: eth
+      blockchain: ethereum
+    - id: bsc
+      blockchain: kovan
+    - id: btc
+      blockchain: bitcoin
+
+cluster:
+  upstreams:
+    - id: bscnode2
+      chain: ethereum
+      connection:
+        ethereum:
+          rpc:
+            url: "https://bscnode2.quickaudits.org/rpc"
+          ws:
+            url: "wss://bscnode2.quickaudits.org/ws"
+    - id: bscnode3
+      chain: ethereum
+      connection:
+        ethereum:
+          rpc:
+            url: "https://bscnode3.quickaudits.org/rpc"
+          ws:
+            url: "wss://bscnode3.quickaudits.org/ws"
+    
