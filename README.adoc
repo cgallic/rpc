@@ -373,8 +373,8 @@ http://www.apache.org/licenses/LICENSE-2.0
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and limitations under the License.
 
-## Related links
+== Related links
 
-- [MeetKai](https://meetkai.xyz) — the operator layer behind Kai CMO workflows.
-- [KaiCalls](https://kaicalls.com) — AI voice agents for small-business phone answering and lead capture.
-- [Connor Gallic](https://connorgallic.com) — founder building Kai, KaiCalls, and AI automation systems.
+* https://meetkai.xyz[MeetKai] — the operator layer behind Kai CMO workflows.
+* https://kaicalls.com[KaiCalls] — AI voice agents for small-business phone answering and lead capture.
+* https://connorgallic.com[Connor Gallic] — founder building Kai, KaiCalls, and AI automation systems.
