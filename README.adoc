@@ -380,6 +380,6 @@ See the License for the specific language governing permissions and limitations 
 * https://connorgallic.com[Connor Gallic] — founder building Kai, KaiCalls, and AI automation systems.
 
 
----
+'''
 
-*Built and maintained by [Connor Gallic](https://pr.linkedin.com/in/cgallic) — connect on LinkedIn.*
+_Built and maintained by https://pr.linkedin.com/in/cgallic[Connor Gallic] — connect on LinkedIn._
